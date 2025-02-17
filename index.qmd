@@ -1,5 +1,15 @@
 ---
 title: "Jhoana-Morales-Lopez-portfolio"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
 This is a Quarto website.
@@ -9,3 +19,23 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+Jhoana Sarai Morales-Lopez is a Student of the psychology department at [California State University, Monterey Bay](#0).
+
+## Education
+
+California State University, Monterey bay \| Seaside, CA
+
+B.A. in Psychology \| 2021 - 2025
+
+Minor in Statistics \| 2021 - 2025
+
+Minor in Spanish Language and Hispanic Culture \| 2021 - 2025
+
+## Experience
+
+Vice President of External Affairs \| Associated Students \| March 2023 - September 2023
+
+Researcher \| Undergraduate Research Opportunities \| November 2022 - December 2024
+
+Customer Service \| [Gianni's Pizza](https://www.giannispizzamonterey.com/) \| January 2025 - Present
