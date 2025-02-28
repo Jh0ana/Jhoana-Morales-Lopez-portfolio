@@ -2,10 +2,5 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
 
 My name is Jhoana Morales-Lopez and I am a psychology major with a double minor in statistics and Spanish language and Hispanic culture.
